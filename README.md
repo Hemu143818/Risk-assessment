@@ -1,4 +1,8 @@
 # EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
+```
+name:- k hemanth yadav
+reg no :- 212224100033
+```
 
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
